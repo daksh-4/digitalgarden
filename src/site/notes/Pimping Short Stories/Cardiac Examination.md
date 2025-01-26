@@ -18,7 +18,6 @@ Assessing radio-radial delay and the collapsing pulse, whilst it may be required
 
 
 
-
 ![Pasted image 20250114204008.png](/img/user/7-Attachments/Pasted%20image%2020250114204008.png)
 
 soft s1
