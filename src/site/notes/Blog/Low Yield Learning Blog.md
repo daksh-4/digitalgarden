@@ -8,5 +8,5 @@ I joined medical school to learn how the human body works, just like many of my 
 
  If you would like to study the high yield facts that will improve your performance in exams, I encourage you to use other resources. The low yield learning blog is part of a conscious effort to cultivate curiosity and reflective habits. I plan to document my experiences in compact essays, strictly free from generative AI.
 
-#### [[Blog/The Acute Neurology Unit\|The Acute Neurology Unit]]
+#### [[Blog/The Acute Neurology Unit\|The Acute Neurology Unit]] - a reflection of my one week visit to Manchester 
 
