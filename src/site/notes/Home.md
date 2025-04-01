@@ -13,3 +13,6 @@ This is a [digital garden](https://github.com/oleeskild/obsidian-digital-garden)
 #### [[Research/Research Interests\|Research Interests]]
 
 #### [[Research/Publications\|Publications]]
+
+#### [[Resources/Resources\|Resources]]
+
