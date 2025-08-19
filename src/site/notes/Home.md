@@ -8,7 +8,7 @@ I am a third year medical student writing about my experiences navigating the sp
 
 This is a [digital garden](https://github.com/oleeskild/obsidian-digital-garden) and I use Obsidian to edit it. 
 
-#### [[Blog/Low Yield Learning Blog\|Low Yield Learning Blog]] 
+#### [[Blog/Blog\|Blog]] 
 
 #### [[Research/Research Interests\|Research Interests]]
 
