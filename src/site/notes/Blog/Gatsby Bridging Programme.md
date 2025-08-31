@@ -10,7 +10,7 @@ We started with a exploration of proofs, including terminology and approaches fo
 
 Whilst the content will ultimately be incredibly important for future study, learning how to solve differential equations and multivariate calculus problems was not the only takeaway.  If you can split a problem up into its constituent parts in this way, the process of problem solving starts to look more standardised. The complexity comes from knowing how to break it up and we tackled this with many practice questions, some of which we completed as groups. I enjoyed hearing different perspectives and our discussions gave me a glimpse of what collaboration in a lab environment might feel like. 
 
-The Gatsby programme gave me a new lens for approaching complex problems and the confidence to engage with research. Most importantly, it transformed my relationship with mathematical thinking from something that felt exclusionary to a powerful tool for understanding and communicating ideas. Armed with these foundations, I now feel equipped to dive deeper into the questions that initially drew me to this field.
+The Gatsby programme gave me a new lens for approaching complex problems and the confidence to engage with research. Most importantly, it transformed my relationship with mathematical thinking from something that felt exclusionary to a powerful tool for understanding and communicating ideas. Truth is, I still don't really know anything. I am filled with uncertainty about research in computational neuroscience and machine learning. But definitely better off than when I started and excited to ask real questions. 
 
 
 
