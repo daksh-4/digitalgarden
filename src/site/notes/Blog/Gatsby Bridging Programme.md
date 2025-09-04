@@ -12,6 +12,8 @@ Whilst the content will ultimately be incredibly important for future study, lea
 
 The Gatsby programme gave me a new lens for approaching complex problems and the confidence to engage with research. Most importantly, it transformed my relationship with mathematical thinking from something that felt exclusionary to a powerful tool for understanding and communicating ideas. Of course, this is the start of a longer journey. I am filled with uncertainty about what research in computational neuroscience and machine learning will look like for me. But definitely better off than when I started and excited to ask real questions. 
 
+I would also like to emphasise the rigour and passion from all of our lecturers. It was incredibly interesting to see the creative ways in which they expanded our appreciation for proofs as well as hearing about their lines of research. 
+
 
 
 
