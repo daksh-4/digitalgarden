@@ -3,8 +3,6 @@
 ---
 
 
-# Bennett Prize Entry
-
 Understanding Trends in the Prescribing of Thrombolytic Agents throughout England: A Time Series Analysis
 
 Using the new OpenPrescribing Hospitals platform from the Bennett Institute for Applied Data Science, I analysed data on medicines used in secondary care to reveal new insights. 
@@ -29,9 +27,4 @@ This is an entry for the Bennett Prize in OpenPrescribing, find out more [here](
 
 
 
-
-
-
-
-# References
 
