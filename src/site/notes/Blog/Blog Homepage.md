@@ -10,3 +10,5 @@ This blog is part of a conscious effort to cultivate curiosity and reflective ha
 
 #### [[Blog/Gatsby Bridging Programme\|Gatsby Bridging Programme]] - a reflection of the 7-week mathematics bridging programme held by the Gatsby unit in UCL 
 
+#### [[Blog/Bennett Medicines Symposium\|Bennett Medicines Symposium]] - my experience presenting my research and attending the Bennett Medicines Symposium at the University of Oxford
+
